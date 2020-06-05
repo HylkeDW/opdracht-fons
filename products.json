@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "title": "Assassin's Creed Legacy - Edward Kenway Hoodie",
+      "price": 89.99,
+      "image": "./images/assassins_creed_legacy_kenway_hoodie.jpg"
+    },
+    {
+      "title": "Assassin's Creed Legacy Edition - Connor Long Sleeve Shirt",
+      "price": 39.99,
+      "image": "./images/assassins_creed_legacy_connor_sleeve.jpg"
+    },
+    {
+      "title": "Assassin’s Creed Legacy – Aveline Tunic",
+      "price": 39.99,
+      "image": "./images/assassins_creed_legacy_aveline_tunic.jpg"
+    },
+    {
+      "title": "Assassin's Creed Legacy - Altair Dress Shirt",
+      "price": 59.99,
+      "image": "./images/assassins_creed_legacy_altair.jpg"
+    },
+    {
+      "title": "Assassin's Creed Origins - Pyramids Hoodie",
+      "price": 59.99,
+      "image": "./images/assassins_creed_origins_launch_hoodie.jpg"
+    },
+    {
+      "title": "Assassin's Creed Origins - Pyramids T-Shirt",
+      "price": 59.99,
+      "image": "./images/assassins_creed_origins_launch_t-shirt.jpg"
+    },
+    {
+      "title": "Assassin's Creed Origins - Golden Ring",
+      "price": 29.99,
+      "image": "./images/assassins_creed_ring.jpg"
+    },
+    {
+      "title": "Assassin's Creed Origins - Hieroglyph Amulet",
+      "price": 19.99,
+      "image": "./images/assassins_creed_origins_necklace.jpg"
+    }
+  ]
+}
